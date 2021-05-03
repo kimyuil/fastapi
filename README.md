@@ -5,5 +5,10 @@ python version : 3.8.5
 
 env : anaconda
 
-dependency : 
+# dependency
+
+pip install fastapi
+
+pip install uvicorn
+
 
